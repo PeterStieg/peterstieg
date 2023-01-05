@@ -1,9 +1,9 @@
 👋 Hi, my name is Peter Stieg
-==============================
-#Head of Marketing, responsible for a team of four marketing managers covering
-##search engine marketing, social media marketing and marketplaces 
+=
+Head of Marketing, responsible for a team of four marketing managers covering search engine marketing, social media marketing and marketplaces
+--
 - 👔 I work for the Germany-based online shop for wall art [Posterlounge](https://www.posterlounge.com/shop/)
-- 🐜 I use JavaScript, PHP and Python for automation
+- 🐜 I use JavaScript as well as PHP and Python for automation
 - 🌱 I study in “Data Science with Python” on [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python)
 - 📫 Feel free to reach out on GitHub or [LinkedIn](https://www.linkedin.com/in/peterstieg/)
 
