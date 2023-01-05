@@ -1,6 +1,6 @@
 👋 Hi, my name is Peter Stieg
 =
-Head of Marketing, responsible for a team of four marketing managers covering search engine marketing, social media marketing and marketplaces
+Head of Marketing, responsible for search engine marketing, social media marketing and marketplaces
 --
 - 👔 I work for the Germany-based online shop for wall art [Posterlounge](https://www.posterlounge.com/shop/)
 - 🐜 I use JavaScript as well as PHP and Python for automation
