@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @peterstieg
-- 💼 I’m the *“Head of Marketing”* of the European online shop for wall art [Posterlounge](https://www.posterlounge.com/shop/)
-- 👀 I’m interested in Data Analytics, Data Science and Data Visualization
-- 🌱 I’m currently learning JavaScript, PHP and Python
-- 📫 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/peterstieg/)
+#👋 Hi, my name is Peter Stieg
+==============================
+##Head of Marketing, responsible for a team of four marketing managers covering
+###search engine marketing, social media marketing and marketplaces 
+- 👔 I work for the Germany-based online shop for wall art [Posterlounge](https://www.posterlounge.com/shop/)
+- 🐜 I use JavaScript, PHP and Python for automation
+- 🌱 I study in data science on [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python)
+- 📫 Feel free to contact me via GitHub or [LinkedIn](https://www.linkedin.com/in/peterstieg/)
 
 <!---
 peterstieg/peterstieg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
