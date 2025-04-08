@@ -1,11 +1,11 @@
 About me
 ===
-👋🏻 Hi, my name is Peter Stieg and I…
+👋🏻 Hi, my name is Peter Stieg… and I…
 ---
 
-… work in **“Marketing and UX Design”** at RapidObject, a 3D printing service provider based in Leipzig, Germany
+… work in **“Marketing and UX Design”** at Rapidobject, a 3D printing service provider based in Leipzig, Germany
 
-… study **“Data Science”** and “Machine Learning Engineering” on DataScientest
+… study **“Data Science”** and **“Machine Learning Engineering”** at DataScientest
 
 ---
 
@@ -13,7 +13,7 @@ About me
 | ----------- | ----------------------- | ------------------------------------------------------------- |
 | **STUDIES** | Data Science Course     | https://datascientest.com/en/data-scientist-course            |
 | **STUDIES** | Machine Learning Course | https://datascientest.com/en/machine-learning-engineer-course |
-| **WORK**    | RapidObject             | https://rapidobject.com/en/                                   |
+| **WORK**    | Rapidobject             | https://rapidobject.com/en/                                   |
 
 <!---
 peterstieg/peterstieg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
