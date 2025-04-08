@@ -1,10 +1,11 @@
 About me
 ===
-👋 Hi, my name is Peter Stieg
+👋🏻 Hi, my name is Peter Stieg and I…
 ---
-- 🐜 I use JavaScript as well as PHP and Python to automate tasks
-- 🌱 I study “Data Science with Python” on [DataCamp](https://www.datacamp.com/)
-- 📫 Feel free to reach out on GitHub or [LinkedIn](https://www.linkedin.com/in/peterstieg/)
+
+… work in **“Marketing and UX Design”** at RapidObject [🔗](https://rapidobject.com/en/), a 3D printing service provider based in Leipzig, Germany
+
+… study **“Data Science”** [🔗](https://datascientest.com/en/data-scientist-course) and “Machine Learning Engineering” [🔗](https://datascientest.com/en/machine-learning-engineer-course) on DataScientest [🔗](https://www.DataScientest.com/)
 
 <!---
 peterstieg/peterstieg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
