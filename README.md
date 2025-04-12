@@ -1,8 +1,8 @@
 About me
 ===
-👋🏻 Hi, my name is Peter Stieg… and I…
+👋🏻 Hi there!
 ---
-
+### My name is Peter Stieg and I…
 … work in **“Marketing and UX Design”** at Rapidobject, a 3D printing service provider based in Leipzig, Germany
 
 … study **“Data Science”** and **“Machine Learning Engineering”** at DataScientest
